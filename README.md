@@ -1,8 +1,10 @@
-# [NOMBRE DEL PROYECTO]
+# [Tarea programada 1]
 ## Integrantes:
-### [Carné] [Nombre]
+### [2017166646] [Cristopher Zúñiga Jiménez]
+### [Carné] [Keilor Martinez Rodriguez]
+### [Carné] [Gilberth Montoya Zarate]
 
-### Estado del proyecto: Escala de 1 a 5, 1 siendo completo y 5 deplorable
-### Plataforma utilizada (Netbeans o IntelliJ)
+### Estado del proyecto: 4
+### Plataforma utilizada Neatbeans 17
 ### Enlace del video: 
 Recordar que el video debe ser **público** y con **sonido** para ser visto y escuchado por el profesor
