@@ -1,8 +1,8 @@
 # [Tarea programada 1]
 ## Integrantes:
-### [2017166646] [Cristopher Zúñiga Jiménez]
-### [Carné] [Keilor Martinez Rodriguez]
-### [Carné] [Gilberth Montoya Zarate]
+### [2017166646-Cristopher Zúñiga Jiménez]
+### [2018319336-Keilor Martinez Rodriguez]
+### [2017239321-Gilberth Montoya Zarate]
 
 ### Estado del proyecto: 4
 ### Plataforma utilizada Neatbeans 17
