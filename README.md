@@ -8,6 +8,6 @@
 ### Plataforma utilizada Neatbeans 17
 ### Enlace del video: 
 
-[https://www.youtube.com/watch?v=VvxQrnG_thM] (#Tarea programada #1: Mini PC)
+[Tarea programada #1: Mini PC](https://www.youtube.com/watch?v=VvxQrnG_thM)
 
 Recordar que el video debe ser **público** y con **sonido** para ser visto y escuchado por el profesor
